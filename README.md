@@ -13,6 +13,19 @@ This repository contains my **data analysis practice** and my **data visualizati
 
 ## ✨ Projects
 
+### 🔹 Dash Interactive Dashboard (Third Dashboard)
+📁 **File:** [`dash_automobile.py`](dash_automobile.py)  
+🧰 **Tools:** Dash · Plotly · Pandas  
+📝 **Description:**  
+This script creates a Dash web application to visualize automobile sales statistics, including yearly and recession period statistics. It includes dropdown menus for user interaction and various plots to display the data.
+
+🖼️ **Preview:** 
+
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/02be1585-db2b-42d1-9b41-59c0cc05bbc0" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/0eec96c7-202a-43cd-9397-2c9023f98614" />
+
+
+
 ### 🔹 Dash Interactive Dashboard (Second Dashboard)
 📁 **File:** [`dash_wildfire.py`](dash_wildfire.py)  
 🧰 **Tools:** Dash · Plotly · Pandas  
